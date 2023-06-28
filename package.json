@@ -1,0 +1,16 @@
+{
+  "name": "regular-expressions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "regularExpression.js",
+  "scripts": {
+    "start": "node regularExpression.js",
+    "dev": "nodemon regularExpression.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
